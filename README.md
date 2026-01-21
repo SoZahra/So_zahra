@@ -35,13 +35,14 @@ Disc
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sozahra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&custom_title=%E2%9C%A8%20Language%20Stats" height="150" alt="languages graph"  />
 </div>  -->
 
+<!--
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=sozahra&theme=blue_navy&hide_border=false" height="180em"/>
   &nbsp;&nbsp;
-</p>
+</p> 
 
 
-<h2 align="center"> <em></em></h2>
+<h2 align="center"> <em></em></h2>-->
 
 <p align="center">
   <code>C++</code> • 
